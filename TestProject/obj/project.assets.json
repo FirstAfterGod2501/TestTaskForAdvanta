@@ -423,17 +423,17 @@
           }
         }
       },
-      "TestTask/1.0.0": {
+      "lib/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
           "System.Drawing.Common": "8.0.0-rc.1.23419.5"
         },
         "compile": {
-          "bin/placeholder/TestTask.dll": {}
+          "bin/placeholder/lib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TestTask.dll": {}
+          "bin/placeholder/lib.dll": {}
         }
       }
     }
@@ -1105,10 +1105,10 @@
         "version.txt"
       ]
     },
-    "TestTask/1.0.0": {
+    "lib/1.0.0": {
       "type": "project",
-      "path": "../TestTask/TestTask.csproj",
-      "msbuildProject": "../TestTask/TestTask.csproj"
+      "path": "../lib/lib.csproj",
+      "msbuildProject": "../lib/lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1117,8 +1117,8 @@
       "NUnit >= 3.13.3",
       "NUnit.Analyzers >= 3.6.1",
       "NUnit3TestAdapter >= 4.4.2",
-      "TestTask >= 1.0.0",
-      "coverlet.collector >= 3.2.0"
+      "coverlet.collector >= 3.2.0",
+      "lib >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1146,8 +1146,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\projects\\TestTask\\TestTask\\TestTask.csproj": {
-              "projectPath": "E:\\projects\\TestTask\\TestTask\\TestTask.csproj"
+            "E:\\projects\\TestTask\\lib\\lib.csproj": {
+              "projectPath": "E:\\projects\\TestTask\\lib\\lib.csproj"
             }
           }
         }

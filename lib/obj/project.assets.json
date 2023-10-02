@@ -133,11 +133,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\TestTask\\TestTask\\TestTask.csproj",
-      "projectName": "TestTask",
-      "projectPath": "E:\\projects\\TestTask\\TestTask\\TestTask.csproj",
+      "projectUniqueName": "E:\\projects\\TestTask\\lib\\lib.csproj",
+      "projectName": "lib",
+      "projectPath": "E:\\projects\\TestTask\\lib\\lib.csproj",
       "packagesPath": "C:\\Users\\Имя\\.nuget\\packages\\",
-      "outputPath": "E:\\projects\\TestTask\\TestTask\\obj\\",
+      "outputPath": "E:\\projects\\TestTask\\lib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Имя\\AppData\\Roaming\\NuGet\\NuGet.Config"

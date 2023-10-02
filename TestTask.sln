@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib", "TestTask\TestTask.csproj", "{996F4A18-F9C6-4C9C-A919-9B35BC621DC2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib", "lib\lib.csproj", "{996F4A18-F9C6-4C9C-A919-9B35BC621DC2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "TestProject\TestProject.csproj", "{CF42D2DA-0D81-4A51-A3FF-5AFDDA6328F8}"
 EndProject
